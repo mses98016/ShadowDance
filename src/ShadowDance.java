@@ -4,11 +4,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-/**
- * Skeleton Code for SWEN20003 Project 1, Semester 2, 2023
- * Please enter your name below
- * @Yung-Hsuan, Chen
- */
 public class ShadowDance extends AbstractGame  {
     private final static int WINDOW_WIDTH = 1024;
     private final static int WINDOW_HEIGHT = 768;
